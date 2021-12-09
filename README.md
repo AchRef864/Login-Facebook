@@ -1,4 +1,4 @@
-# Login-Facebook // First-Web-Srapper
+# Login-Facebook // First-Web-Scrapper
 
 Simple Web Scrapper Let You Login To Your Facebook Account
 
