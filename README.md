@@ -1,4 +1,4 @@
-# Login-Facebook
+# Login-Facebook // First-Web-Srapper
 
 Simple Web Scrapper Let You Login To Your Facebook Account
 
@@ -10,3 +10,5 @@ pip install selenium
 Run Edge Driver 
 
 Good To Go
+
+In PATH Variable Put The Edge Driver Path After Exctracting It
