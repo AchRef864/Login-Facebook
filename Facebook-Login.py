@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-PATH = ("D:\Education\edgedriver_win64\msedgedriver.exe")
+PATH = ("{the path of the msedgedriver}\msedgedriver.exe") 
 driver = webdriver.Edge(PATH)
 
 driver.get("https://www.facebook.com/")
