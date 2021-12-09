@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
 
 PATH = ("D:\Education\edgedriver_win64\msedgedriver.exe")
 driver = webdriver.Edge(PATH)
