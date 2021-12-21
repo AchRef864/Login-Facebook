@@ -1,6 +1,6 @@
 # Login-Facebook // First-Web-Scrapper
 
-Simple Web Scrapper Let You Login To Your Facebook Account
+Web Automation Login To Your Facebook Account
 
 Download Edge Driver
 #https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
